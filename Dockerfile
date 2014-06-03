@@ -1,6 +1,6 @@
 FROM ubuntu:trusty
 
-MAINTAINER: Giuliano Tortoreto giulian.trt@gmail.com
+MAINTAINER: giuliano.tortoreto@outlook.com
 
 RUN apt-get -y -q update
 #download and install java
